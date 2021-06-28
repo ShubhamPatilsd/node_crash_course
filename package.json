@@ -1,0 +1,26 @@
+{
+  "name": "node_crash_course",
+  "version": "1.0.0",
+  "description": "I really need to get more familiar with nodeJS and not just express :D",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhamPatilsd/node_crash_course.git"
+  },
+  "author": "Shubham Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShubhamPatilsd/node_crash_course/issues"
+  },
+  "homepage": "https://github.com/ShubhamPatilsd/node_crash_course#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
